@@ -12,5 +12,5 @@ npm run serve
 
 ### 他讲在8080端口上
 
-<img src="/img(可删除)/20241129230944.jpg" alt="示例图片" width="500" height="800">
+<img src="/img(可删除)/20241129230944.jpg" alt="示例图片" width="500" height="980">
 
